@@ -8,9 +8,8 @@ fully responsive administration template and on [Bootstrap 4.6](https://getboots
 
 ## Quick start
 
-There are multiple ways to install the module, but composer from repository would be preferred one until any stable release ready:
+There are multiple ways to install the module, but composer from repository would be preferred:
 
-    composer config repositories.repo-name vcs https://github.com/ashtokalo/yii2-adminlte
     composer require ashtokalo\yii2-adminlte
 
 Assume you already have Yii2 application, so the only changes you need are:
